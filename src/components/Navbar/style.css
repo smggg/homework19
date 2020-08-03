@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(124, 186, 196);
+    border-bottom: 5px solid #e08694;
+    height: 110px;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 30px;
+    margin-right:0;
+}
+
+.navbar-brand:hover {
+    color: #e08694;
+}
